@@ -1,0 +1,3 @@
+https://www.linuxbabe.com/linux-server/how-to-install-lemp-stack-linux-nginx-mariadb-php-on-centos7
+
+http://linoxide.com/how-tos/setup-drupal-8-lemp-stack-ubuntu-15-04-centos-7/
